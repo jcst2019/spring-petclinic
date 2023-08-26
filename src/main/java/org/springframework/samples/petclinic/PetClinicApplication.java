@@ -37,7 +37,8 @@ public class PetClinicApplication implements CommandLineRunner {
 
 	@Override
 	public void run(String... args) throws Exception {
+		System.out.println("=====================");
 		System.out.println("Hello Mundo JCST");
-		
+
 	}
 }
